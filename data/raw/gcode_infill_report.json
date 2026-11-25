@@ -1,0 +1,463 @@
+{
+  "sliced_jobs": {
+    "gcode\\upper_limb_5bones\\scapula.gcode": {
+      "has_config_block_end": true,
+      "layers": 80,
+      "est_time": "19m 55s",
+      "filament_g": "",
+      "total_extrusion_mm": 1362.4,
+      "all_types_pct": {
+        "Sparse infill": 39.9,
+        "Outer wall": 15.3,
+        "Internal Bridge": 12.5,
+        "Bridge": 9.5,
+        "Top surface": 8.8,
+        "Inner wall": 5.8,
+        "Overhang wall": 3.9,
+        "Internal solid infill": 3.8,
+        "Gap infill": 0.4,
+        "Brim": 0.1
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 65.9,
+        "Outer wall": 17.3,
+        "Internal Bridge": 16.2,
+        "Inner wall": 0.6
+      }
+    },
+    "gcode\\upper_limb_5bones\\clavicle.gcode": {
+      "has_config_block_end": true,
+      "layers": 51,
+      "est_time": "8m 8s",
+      "filament_g": "",
+      "total_extrusion_mm": 291.4,
+      "all_types_pct": {
+        "Sparse infill": 49.4,
+        "Outer wall": 25.5,
+        "Inner wall": 11.6,
+        "Internal solid infill": 3.3,
+        "Top surface": 3.2,
+        "Overhang wall": 3.0,
+        "Internal Bridge": 1.8,
+        "Bridge": 1.3,
+        "Brim": 0.6,
+        "Gap infill": 0.4
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 95.8,
+        "Inner wall": 2.7,
+        "Outer wall": 1.5
+      }
+    },
+    "gcode\\upper_limb_5bones\\humerus.gcode": {
+      "has_config_block_end": true,
+      "layers": 96,
+      "est_time": "15m 20s",
+      "filament_g": "",
+      "total_extrusion_mm": 775.1,
+      "all_types_pct": {
+        "Sparse infill": 53.8,
+        "Outer wall": 17.8,
+        "Inner wall": 13.3,
+        "Internal Bridge": 3.9,
+        "Top surface": 3.6,
+        "Overhang wall": 2.9,
+        "Internal solid infill": 2.4,
+        "Bridge": 1.7,
+        "Gap infill": 0.4,
+        "Brim": 0.3
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Inner wall": 26.5,
+        "Outer wall": 19.9,
+        "Sparse infill": 19.7,
+        "Overhang wall": 16.0,
+        "Bridge": 10.8,
+        "Internal solid infill": 7.0,
+        "Gap infill": 0.1
+      }
+    },
+    "gcode\\upper_limb_5bones\\ulna.gcode": {
+      "has_config_block_end": true,
+      "layers": 59,
+      "est_time": "10m 24s",
+      "filament_g": "",
+      "total_extrusion_mm": 425.3,
+      "all_types_pct": {
+        "Sparse infill": 47.0,
+        "Outer wall": 22.4,
+        "Inner wall": 15.9,
+        "Brim": 5.7,
+        "Overhang wall": 2.9,
+        "Internal solid infill": 2.1,
+        "Top surface": 1.8,
+        "Gap infill": 0.8,
+        "Bridge": 0.7,
+        "Internal Bridge": 0.6
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 85.0,
+        "Inner wall": 9.5,
+        "Outer wall": 5.5
+      }
+    },
+    "gcode\\upper_limb_5bones\\radius.gcode": {
+      "has_config_block_end": true,
+      "layers": 69,
+      "est_time": "10m 20s",
+      "filament_g": "",
+      "total_extrusion_mm": 420.7,
+      "all_types_pct": {
+        "Sparse infill": 52.8,
+        "Outer wall": 25.3,
+        "Inner wall": 11.4,
+        "Overhang wall": 2.8,
+        "Internal solid infill": 2.4,
+        "Top surface": 1.9,
+        "Internal Bridge": 1.4,
+        "Bridge": 0.8,
+        "Gap infill": 0.7,
+        "Brim": 0.4
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 53.5,
+        "Outer wall": 46.4,
+        "Inner wall": 0.2
+      }
+    },
+    "gcode\\upper_limb_5bones\\plate_01_upper_limb_5bones.gcode": {
+      "has_config_block_end": true,
+      "layers": 96,
+      "est_time": "44m 45s",
+      "filament_g": "",
+      "total_extrusion_mm": 3256.0,
+      "all_types_pct": {
+        "Sparse infill": 46.6,
+        "Outer wall": 19.1,
+        "Inner wall": 10.1,
+        "Internal Bridge": 6.8,
+        "Top surface": 5.3,
+        "Bridge": 4.6,
+        "Overhang wall": 3.4,
+        "Internal solid infill": 3.0,
+        "Brim": 0.6,
+        "Gap infill": 0.5
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 55.4,
+        "Outer wall": 19.8,
+        "Internal Bridge": 9.9,
+        "Inner wall": 7.3,
+        "Overhang wall": 3.7,
+        "Bridge": 2.2,
+        "Internal solid infill": 1.7,
+        "Gap infill": 0.0
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\scapula.gcode": {
+      "has_config_block_end": true,
+      "layers": 80,
+      "est_time": "19m 35s",
+      "filament_g": "",
+      "total_extrusion_mm": 1245.9,
+      "all_types_pct": {
+        "Sparse infill": 39.6,
+        "Outer wall": 16.1,
+        "Internal Bridge": 12.8,
+        "Bridge": 9.1,
+        "Top surface": 9.0,
+        "Inner wall": 5.9,
+        "Overhang wall": 3.5,
+        "Internal solid infill": 3.3,
+        "Gap infill": 0.4,
+        "Brim": 0.2
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 63.6,
+        "Internal Bridge": 18.3,
+        "Outer wall": 17.7,
+        "Inner wall": 0.5
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\clavicle.gcode": {
+      "has_config_block_end": true,
+      "layers": 47,
+      "est_time": "7m 2s",
+      "filament_g": "",
+      "total_extrusion_mm": 193.7,
+      "all_types_pct": {
+        "Sparse infill": 47.0,
+        "Outer wall": 29.7,
+        "Inner wall": 10.8,
+        "Overhang wall": 4.0,
+        "Internal solid infill": 3.7,
+        "Top surface": 2.7,
+        "Internal Bridge": 0.7,
+        "Gap infill": 0.6,
+        "Bridge": 0.5,
+        "Brim": 0.3
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 98.3,
+        "Inner wall": 1.5,
+        "Outer wall": 0.1
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\humerus.gcode": {
+      "has_config_block_end": true,
+      "layers": 131,
+      "est_time": "26m 13s",
+      "filament_g": "",
+      "total_extrusion_mm": 1933.0,
+      "all_types_pct": {
+        "Sparse infill": 63.1,
+        "Outer wall": 14.0,
+        "Inner wall": 10.6,
+        "Top surface": 3.1,
+        "Internal Bridge": 2.8,
+        "Overhang wall": 2.5,
+        "Bridge": 1.7,
+        "Internal solid infill": 1.7,
+        "Gap infill": 0.2,
+        "Brim": 0.2
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 36.7,
+        "Inner wall": 25.5,
+        "Outer wall": 19.4,
+        "Overhang wall": 9.9,
+        "Bridge": 6.4,
+        "Internal solid infill": 1.8,
+        "Gap infill": 0.2
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\ulna.gcode": {
+      "has_config_block_end": true,
+      "layers": 76,
+      "est_time": "14m 16s",
+      "filament_g": "",
+      "total_extrusion_mm": 806.1,
+      "all_types_pct": {
+        "Sparse infill": 56.7,
+        "Outer wall": 19.3,
+        "Inner wall": 12.2,
+        "Brim": 3.7,
+        "Overhang wall": 2.3,
+        "Top surface": 1.9,
+        "Internal solid infill": 1.8,
+        "Bridge": 1.1,
+        "Gap infill": 0.5,
+        "Internal Bridge": 0.4
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 38.9,
+        "Inner wall": 31.6,
+        "Outer wall": 29.4,
+        "Overhang wall": 0.2
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\radius.gcode": {
+      "has_config_block_end": true,
+      "layers": 84,
+      "est_time": "13m 53s",
+      "filament_g": "",
+      "total_extrusion_mm": 692.2,
+      "all_types_pct": {
+        "Sparse infill": 59.1,
+        "Outer wall": 23.0,
+        "Inner wall": 8.4,
+        "Overhang wall": 2.5,
+        "Top surface": 2.2,
+        "Internal solid infill": 2.1,
+        "Bridge": 1.1,
+        "Internal Bridge": 1.0,
+        "Gap infill": 0.4,
+        "Brim": 0.3
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 37.3,
+        "Inner wall": 32.4,
+        "Outer wall": 30.2,
+        "Overhang wall": 0.2
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to2\\plate_01_realbone_1to2_5bones.gcode": {
+      "has_config_block_end": true,
+      "layers": 131,
+      "est_time": "1h 1m 48s",
+      "filament_g": "",
+      "total_extrusion_mm": 4866.9,
+      "all_types_pct": {
+        "Sparse infill": 55.2,
+        "Outer wall": 17.3,
+        "Inner wall": 9.4,
+        "Internal Bridge": 4.5,
+        "Top surface": 4.3,
+        "Bridge": 3.4,
+        "Overhang wall": 2.8,
+        "Internal solid infill": 2.3,
+        "Brim": 0.4,
+        "Gap infill": 0.4
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 48.6,
+        "Outer wall": 23.0,
+        "Inner wall": 19.1,
+        "Internal Bridge": 7.5,
+        "Overhang wall": 1.0,
+        "Bridge": 0.6,
+        "Internal solid infill": 0.2,
+        "Gap infill": 0.0
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to1\\scapula_1to1.gcode": {
+      "has_config_block_end": true,
+      "layers": 135,
+      "est_time": "48m 26s",
+      "filament_g": "",
+      "total_extrusion_mm": 4807.0,
+      "all_types_pct": {
+        "Sparse infill": 56.3,
+        "Outer wall": 12.1,
+        "Internal Bridge": 8.5,
+        "Bridge": 6.9,
+        "Top surface": 6.3,
+        "Inner wall": 4.4,
+        "Overhang wall": 2.7,
+        "Internal solid infill": 2.5,
+        "Gap infill": 0.3,
+        "Brim": 0.1
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 82.9,
+        "Outer wall": 13.1,
+        "Internal solid infill": 2.8,
+        "Inner wall": 0.4,
+        "Overhang wall": 0.4,
+        "Gap infill": 0.3
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to1\\clavicle_1to1.gcode": {
+      "has_config_block_end": true,
+      "layers": 79,
+      "est_time": "14m 30s",
+      "filament_g": "",
+      "total_extrusion_mm": 838.9,
+      "all_types_pct": {
+        "Sparse infill": 61.5,
+        "Outer wall": 19.5,
+        "Inner wall": 8.1,
+        "Internal Bridge": 2.8,
+        "Top surface": 2.5,
+        "Overhang wall": 2.0,
+        "Internal solid infill": 1.6,
+        "Bridge": 1.5,
+        "Gap infill": 0.3,
+        "Brim": 0.2
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 58.4,
+        "Outer wall": 40.9,
+        "Inner wall": 0.7
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to1\\humerus_1to1.gcode": {
+      "has_config_block_end": true,
+      "layers": 221,
+      "est_time": "1h 12m 12s",
+      "filament_g": "",
+      "total_extrusion_mm": 8292.2,
+      "all_types_pct": {
+        "Sparse infill": 75.2,
+        "Outer wall": 9.5,
+        "Inner wall": 7.3,
+        "Top surface": 2.1,
+        "Internal Bridge": 1.7,
+        "Overhang wall": 1.6,
+        "Bridge": 1.4,
+        "Internal solid infill": 1.0,
+        "Gap infill": 0.2,
+        "Brim": 0.0
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 67.5,
+        "Outer wall": 31.7,
+        "Inner wall": 0.8
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to1\\ulna_1to1.gcode": {
+      "has_config_block_end": true,
+      "layers": 129,
+      "est_time": "32m 4s",
+      "filament_g": "",
+      "total_extrusion_mm": 3350.7,
+      "all_types_pct": {
+        "Sparse infill": 70.0,
+        "Outer wall": 13.7,
+        "Inner wall": 9.0,
+        "Overhang wall": 1.6,
+        "Top surface": 1.5,
+        "Bridge": 1.2,
+        "Internal solid infill": 1.1,
+        "Internal Bridge": 0.9,
+        "Brim": 0.8,
+        "Gap infill": 0.2
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 36.6,
+        "Inner wall": 23.2,
+        "Outer wall": 19.4,
+        "Overhang wall": 11.0,
+        "Bridge": 5.5,
+        "Internal solid infill": 3.3,
+        "Gap infill": 0.9
+      }
+    },
+    "gcode\\upper_limb_5bones_realbone_1to1\\radius_1to1.gcode": {
+      "has_config_block_end": true,
+      "layers": 142,
+      "est_time": "32m 56s",
+      "filament_g": "",
+      "total_extrusion_mm": 3066.5,
+      "all_types_pct": {
+        "Sparse infill": 72.3,
+        "Outer wall": 14.7,
+        "Inner wall": 6.1,
+        "Overhang wall": 1.6,
+        "Top surface": 1.5,
+        "Bridge": 1.2,
+        "Internal solid infill": 1.2,
+        "Internal Bridge": 1.1,
+        "Brim": 0.1,
+        "Gap infill": 0.1
+      },
+      "z_sample_mm": 4.52,
+      "z_sample_types_pct": {
+        "Sparse infill": 24.8,
+        "Inner wall": 22.4,
+        "Overhang wall": 18.8,
+        "Outer wall": 15.1,
+        "Bridge": 12.2,
+        "Internal solid infill": 5.7,
+        "Gap infill": 0.9
+      }
+    }
+  },
+  "all_passed": true
+}

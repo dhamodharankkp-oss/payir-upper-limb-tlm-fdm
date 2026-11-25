@@ -1,0 +1,301 @@
+{
+  "creality_k1_safe_envelope_mm": {
+    "max_x": 210.0,
+    "max_y": 210.0,
+    "max_z": 240.0
+  },
+  "realbone_1to2_parts": {
+    "scapula": {
+      "name": "scapula",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\scapula.stl",
+      "verts": 97805,
+      "faces": 195606,
+      "dimensions_mm": [
+        51.74,
+        77.992,
+        12.835
+      ],
+      "dx": 51.74,
+      "dy": 77.992,
+      "dz": 12.835,
+      "min_z_mm": 0.0,
+      "max_z_mm": 12.835,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "clavicle": {
+      "name": "clavicle",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\clavicle.stl",
+      "verts": 50401,
+      "faces": 100798,
+      "dimensions_mm": [
+        15.203,
+        75.0,
+        7.512
+      ],
+      "dx": 15.203,
+      "dy": 75.0,
+      "dz": 7.512,
+      "min_z_mm": 0.0,
+      "max_z_mm": 7.512,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "humerus": {
+      "name": "humerus",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\humerus.stl",
+      "verts": 82903,
+      "faces": 165802,
+      "dimensions_mm": [
+        35.982,
+        155.0,
+        21.019
+      ],
+      "dx": 35.982,
+      "dy": 155.0,
+      "dz": 21.019,
+      "min_z_mm": 0.0,
+      "max_z_mm": 21.019,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "ulna": {
+      "name": "ulna",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\ulna.stl",
+      "verts": 55442,
+      "faces": 110880,
+      "dimensions_mm": [
+        16.953,
+        130.0,
+        12.223
+      ],
+      "dx": 16.953,
+      "dy": 130.0,
+      "dz": 12.223,
+      "min_z_mm": 0.0,
+      "max_z_mm": 12.223,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "radius": {
+      "name": "radius",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\radius.stl",
+      "verts": 60341,
+      "faces": 120678,
+      "dimensions_mm": [
+        15.79,
+        120.0,
+        13.503
+      ],
+      "dx": 15.79,
+      "dy": 120.0,
+      "dz": 13.503,
+      "min_z_mm": 0.0,
+      "max_z_mm": 13.503,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    }
+  },
+  "realbone_1to2_plate": {
+    "name": "plate_01_realbone_1to2_5bones",
+    "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to2\\plate_01_realbone_1to2_5bones.stl",
+    "included_parts": [
+      "scapula",
+      "clavicle",
+      "humerus",
+      "ulna",
+      "radius"
+    ],
+    "verts": 346892,
+    "faces": 693764,
+    "dimensions_mm": [
+      169.667,
+      155.0,
+      21.019
+    ],
+    "bounds_xy_mm": [
+      -84.834,
+      84.834,
+      -77.5,
+      77.5
+    ],
+    "min_part_gap_mm": 8.5,
+    "min_z_mm": 0.0,
+    "max_z_mm": 21.019,
+    "non_manifold_edges": 0,
+    "loose_verts": 0,
+    "fits_creality_k1": true,
+    "stl_roundtrip_verified": true
+  },
+  "realbone_1to1_lifesize": {
+    "scapula": {
+      "name": "scapula_1to1",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to1_lifesize\\scapula_1to1.stl",
+      "bed_rotation_z_deg": 0.0,
+      "anatomical_length_mm": 131.62,
+      "verts": 97805,
+      "faces": 195606,
+      "bed_bbox_dimensions_mm": [
+        87.306,
+        131.604,
+        21.658
+      ],
+      "dx": 87.306,
+      "dy": 131.604,
+      "dz": 21.658,
+      "min_z_mm": 0.0,
+      "max_z_mm": 21.658,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "clavicle": {
+      "name": "clavicle_1to1",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to1_lifesize\\clavicle_1to1.stl",
+      "bed_rotation_z_deg": 0.0,
+      "anatomical_length_mm": 126.56,
+      "verts": 50401,
+      "faces": 100798,
+      "bed_bbox_dimensions_mm": [
+        25.653,
+        126.556,
+        12.676
+      ],
+      "dx": 25.653,
+      "dy": 126.556,
+      "dz": 12.676,
+      "min_z_mm": 0.0,
+      "max_z_mm": 12.676,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "humerus": {
+      "name": "humerus_1to1",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to1_lifesize\\humerus_1to1.stl",
+      "bed_rotation_z_deg": 45.0,
+      "anatomical_length_mm": 261.55,
+      "verts": 82903,
+      "faces": 165802,
+      "bed_bbox_dimensions_mm": [
+        199.17,
+        204.0,
+        35.468
+      ],
+      "dx": 199.17,
+      "dy": 204.0,
+      "dz": 35.468,
+      "min_z_mm": 0.0,
+      "max_z_mm": 35.468,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "ulna": {
+      "name": "ulna_1to1",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to1_lifesize\\ulna_1to1.stl",
+      "bed_rotation_z_deg": 45.0,
+      "anatomical_length_mm": 219.36,
+      "verts": 55442,
+      "faces": 110880,
+      "bed_bbox_dimensions_mm": [
+        160.551,
+        161.113,
+        20.626
+      ],
+      "dx": 160.551,
+      "dy": 161.113,
+      "dz": 20.626,
+      "min_z_mm": 0.0,
+      "max_z_mm": 20.626,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    },
+    "radius": {
+      "name": "radius_1to1",
+      "stl_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\realbone_1to1_lifesize\\radius_1to1.stl",
+      "bed_rotation_z_deg": 45.0,
+      "anatomical_length_mm": 202.49,
+      "verts": 60341,
+      "faces": 120678,
+      "bed_bbox_dimensions_mm": [
+        150.226,
+        154.587,
+        22.785
+      ],
+      "dx": 150.226,
+      "dy": 154.587,
+      "dz": 22.785,
+      "min_z_mm": 0.0,
+      "max_z_mm": 22.785,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "fits_creality_k1": true,
+      "stl_roundtrip_verified": true
+    }
+  },
+  "blend_individual": {
+    "scapula": {
+      "blend_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\blend_individual\\scapula.blend",
+      "dimensions_mm": [
+        51.74,
+        77.992,
+        12.835
+      ],
+      "min_z_mm": 0.0
+    },
+    "clavicle": {
+      "blend_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\blend_individual\\clavicle.blend",
+      "dimensions_mm": [
+        15.203,
+        75.0,
+        7.512
+      ],
+      "min_z_mm": 0.0
+    },
+    "humerus": {
+      "blend_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\blend_individual\\humerus.blend",
+      "dimensions_mm": [
+        35.982,
+        155.0,
+        21.019
+      ],
+      "min_z_mm": 0.0
+    },
+    "ulna": {
+      "blend_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\blend_individual\\ulna.blend",
+      "dimensions_mm": [
+        16.953,
+        130.0,
+        12.223
+      ],
+      "min_z_mm": 0.0
+    },
+    "radius": {
+      "blend_path": "e:\\AG\\Blender\\exports\\upper_limb_5bones\\blend_individual\\radius.blend",
+      "dimensions_mm": [
+        15.79,
+        120.0,
+        13.503
+      ],
+      "min_z_mm": 0.0
+    }
+  },
+  "all_passed": true,
+  "realbone_1to1_uniform_factor_vs_1to2": 1.6874
+}

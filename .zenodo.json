@@ -1,0 +1,33 @@
+{
+  "title": "Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology TLM Kit: Slicer Infill Ablation and Build-Orientation Validation",
+  "description": "Open-source parametric Blender 5.2 CAD pipeline, watertight pediatric upper-limb 5-bone STL/3MF models (5-year and 8-9-year wire-articulated classroom kits), OrcaSlicer 2.5.1 Creality K1 profiles, G-code infill ablation dataset, and print-orientation validation logs developed under Payir Health Initiatives (Payir Trust) for Teaching-Learning Materials (TLM) at Ideapattrai - Makerspace, Aarvam Learning Lab.",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "KKP, Dhamodaran",
+      "affiliation": "Payir Health Initiatives (Payir Trust); Ideapattrai - Makerspace, Aarvam Learning Lab",
+      "orcid": "0009-0002-1777-0573"
+    }
+  ],
+  "keywords": [
+    "3D printing",
+    "FDM",
+    "osteology",
+    "pediatric anatomy",
+    "teaching-learning materials",
+    "maker education",
+    "open hardware",
+    "OrcaSlicer",
+    "Creality K1",
+    "Payir Trust"
+  ],
+  "notes": "Dual-licensed: code/scripts under MIT (LICENSE-CODE); STLs, 3MF, slicer profiles, datasets, and figures under CC-BY-4.0 (LICENSE-DATA).",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

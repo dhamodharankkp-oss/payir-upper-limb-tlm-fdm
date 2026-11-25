@@ -1,0 +1,26 @@
+{
+    "type": "process",
+    "name": "K1 Embosser 0.16mm Scarf Arachne",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "version": "2.5.1.0",
+    "layer_height": "0.16",
+    "initial_layer_print_height": "0.2",
+    "wall_generator": "arachne",
+    "wall_loops": "3",
+    "top_shell_layers": "5",
+    "bottom_shell_layers": "4",
+    "seam_position": "aligned",
+    "seam_slope_type": "all",
+    "sparse_infill_density": "25%",
+    "sparse_infill_pattern": "gyroid",
+    "outer_wall_speed": "80",
+    "outer_wall_acceleration": "3000",
+    "enable_support": "0",
+    "brim_type": "no_brim",
+    "compatible_printers": [
+        "Creality K1 (0.4 nozzle)",
+        "Creality K1 (0.4 nozzle) - Copy"
+    ]
+}

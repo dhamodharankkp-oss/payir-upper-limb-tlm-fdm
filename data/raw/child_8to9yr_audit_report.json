@@ -1,0 +1,112 @@
+{
+  "age_group": "8-9 years (240 mm humerus)",
+  "wire_hole_diameter_mm": 2.4,
+  "all_passed": true,
+  "files": {
+    "humerus_8to9yr_wire_flat45.stl": {
+      "dims_mm": [
+        182.76,
+        187.19,
+        32.55
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 87390.09,
+      "fits_K1": true,
+      "passed": true
+    },
+    "humerus_8to9yr_wire_tilt40.stl": {
+      "dims_mm": [
+        55.71,
+        187.11,
+        163.69
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 87390.09,
+      "fits_K1": true,
+      "passed": true
+    },
+    "ulna_8to9yr_wire.stl": {
+      "dims_mm": [
+        25.43,
+        195.0,
+        18.33
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 31256.38,
+      "fits_K1": true,
+      "passed": true
+    },
+    "radius_8to9yr_wire.stl": {
+      "dims_mm": [
+        23.69,
+        180.0,
+        20.25
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 29123.02,
+      "fits_K1": true,
+      "passed": true
+    },
+    "scapula_8to9yr_wire.stl": {
+      "dims_mm": [
+        76.95,
+        116.0,
+        19.09
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 34971.81,
+      "fits_K1": true,
+      "passed": true
+    },
+    "clavicle_8to9yr_wire.stl": {
+      "dims_mm": [
+        21.08,
+        104.0,
+        10.42
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 1,
+      "signed_volume_mm3": 5827.88,
+      "fits_K1": true,
+      "passed": true
+    },
+    "plate_02_forearm_shoulder_8to9yr.stl": {
+      "dims_mm": [
+        195.0,
+        174.15,
+        20.25
+      ],
+      "min_z_mm": 0.0,
+      "non_manifold_edges": 0,
+      "loose_verts": 0,
+      "degenerate_faces": 0,
+      "islands": 4,
+      "signed_volume_mm3": 101179.1,
+      "fits_K1": true,
+      "passed": true
+    }
+  }
+}

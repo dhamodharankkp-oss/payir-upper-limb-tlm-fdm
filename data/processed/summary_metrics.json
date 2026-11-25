@@ -1,0 +1,8 @@
+{
+  "total_gcode_jobs_audited": 17,
+  "internal_solid_infill_pct_mean": 2.31,
+  "internal_solid_infill_pct_max": 3.8,
+  "internal_solid_infill_pct_min": 1.0,
+  "sparse_infill_pct_mean": 55.62,
+  "age_8to9yr_5bone_total_volume_cm3": 188.57
+}

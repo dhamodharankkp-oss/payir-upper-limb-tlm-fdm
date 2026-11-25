@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this Teaching-Learning Material (TLM) kit, CAD pipeline, slicer profiles, or dataset, please cite it as below."
+title: "Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology TLM Kit (Payir Health Initiatives / Ideapattrai)"
+authors:
+  - family-names: "KKP"
+    given-names: "Dhamodaran"
+    orcid: "https://orcid.org/0009-0002-1777-0573"
+    affiliation: "Payir Health Initiatives (Payir Trust); Ideapattrai - Makerspace, Aarvam Learning Lab"
+repository-code: "https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm"
+version: "0.1.0"
+date-released: "2026-11-25"
+license: "CC-BY-4.0"
+keywords:
+  - "3D printing"
+  - "FDM"
+  - "anatomical models"
+  - "teaching-learning materials"
+  - "maker education"
+  - "Payir Trust"
+  - "slicer optimization"
+  - "open hardware"
