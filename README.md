@@ -5,7 +5,7 @@
 [![License: CC BY 4.0 (Data/CAD)](https://img.shields.io/badge/Data%20%26%20CAD-CC--BY--4.0-lightgrey.svg)](LICENSE-DATA)
 
 **Authors**:
-- **Preethi L Xavier** ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)) — *Lead Author: TLM Ideation & Pedagogical Design* (Independent TLM Designer & Educator)
+- **Dr. Preethi L Xavier** ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)) — *Lead Author: TLM Ideation & Anatomical/Pedagogical Design* (Physician & Independent TLM Designer)
 - **Dhamodaran KKP** ([ORCID: 0009-0002-1777-0573](https://orcid.org/0009-0002-1777-0573)) — *Maker & Fabrication Engineering (CAD, Slicing & 3D Printing)*, **Ideapattrai – Makerspace, Aarvam Learning Lab**  
 **Program Context**: Developed for **Payir Health Initiatives (Payir Trust)** Teaching-Learning Materials (**TLM**)  
 **Target Repository**: `https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm`

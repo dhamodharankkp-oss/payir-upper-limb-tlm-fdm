@@ -2,7 +2,7 @@
 
 **Title**: Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology Teaching-Learning Material (TLM) Kit: Slicer Infill Ablation and Build-Orientation Validation on a Desktop CoreXY Printer  
 **Authors**:
-1. **Preethi L Xavier** ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)) — *Conceptualization & TLM Pedagogical Design* (Independent TLM Designer & Educator)
+1. **Dr. Preethi L Xavier** ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)) — *Conceptualization, Anatomical & TLM Pedagogical Design* (Physician & Independent TLM Designer)
 2. **Dhamodaran KKP** ([ORCID: 0009-0002-1777-0573](https://orcid.org/0009-0002-1777-0573)) — *CAD, FDM Fabrication, Slicer Ablation & Data Curation*, Ideapattrai – Makerspace, Aarvam Learning Lab (for Payir Health Initiatives / Payir Trust TLM)  
 **Date Drafted**: 2026-11-25  
 **Repository**: `https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm`
