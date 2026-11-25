@@ -1,8 +1,9 @@
 # Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology Teaching-Learning Material (TLM) Kit: Slicer Infill Ablation and Build-Orientation Validation
 
-**Dhamodaran KKP** ([ORCID: 0009-0002-1777-0573](https://orcid.org/0009-0002-1777-0573))  
-*Payir Health Initiatives (Payir Trust) — Teaching & Teacher Learning Materials (TLM)*  
-*Ideapattrai – Makerspace, Aarvam Learning Lab*  
+**Preethi L Xavier**$^{1,*}$ ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)), **Dhamodaran KKP**$^{2}$ ([ORCID: 0009-0002-1777-0573](https://orcid.org/0009-0002-1777-0573))  
+$^{1}$ *Payir Health Initiatives (Payir Trust) — Teaching & Teacher Learning Materials (TLM)*  
+$^{2}$ *Ideapattrai – Makerspace, Aarvam Learning Lab*  
+$^{*}$ Lead author (TLM ideation & pedagogical specification)
 
 ---
 
@@ -87,7 +88,11 @@ The current `v0.1.0` release reports 17 deterministic G-code audits and initial 
 
 ---
 
-## 5. Data & Code Availability
+## 5. Author Contributions (CRediT)
+- **Preethi L Xavier** (*Payir Health Initiatives / Payir Trust*): Conceptualization, TLM ideation, age-group pedagogical specification, and classroom articulation requirements.
+- **Dhamodaran KKP** (*Ideapattrai – Makerspace, Aarvam Learning Lab*): Parametric Blender CAD implementation, Creality K1 FDM fabrication, OrcaSlicer optimization, G-code data curation, and visualization.
+
+## 6. Data & Code Availability
 All Blender scripts, OrcaSlicer `2.5.1` profiles, watertight STLs/3MF files, raw JSON/CSV datasets, and analysis scripts are openly available at:
 - **GitHub**: `https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm`
 - **Author ORCID**: `https://orcid.org/0009-0002-1777-0573`

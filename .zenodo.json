@@ -5,8 +5,12 @@
   "license": "cc-by-4.0",
   "creators": [
     {
+      "name": "Xavier, Preethi L",
+      "affiliation": "Payir Health Initiatives (Payir Trust)"
+    },
+    {
       "name": "KKP, Dhamodaran",
-      "affiliation": "Payir Health Initiatives (Payir Trust); Ideapattrai - Makerspace, Aarvam Learning Lab",
+      "affiliation": "Ideapattrai - Makerspace, Aarvam Learning Lab",
       "orcid": "0009-0002-1777-0573"
     }
   ],
