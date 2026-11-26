@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 r"""
 Reusable OrcaSlicer 2.5.1 Multi-Plate .3mf Project Builder.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Individual 3D-Printed Upper-Limb & Shoulder-Girdle Bones Builder (Blender 5.2).
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Builds the combined 5-year-old child 1:1 K1 print plate (plate_01_child_5yr_5bones.stl)
 and renders visual verification previews of:

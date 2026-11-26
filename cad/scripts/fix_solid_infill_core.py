@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Rebuild the 5 upper-limb bone meshes (scapula, clavicle, humerus, ulna, radius)
 with full-bodied solid cores and flat bed-grounded posterior contact so that

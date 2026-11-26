@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Render two verification visuals after solid-core mesh rebuild + G-code slicing:
   1. renders/upper_limb_5bones_solid_infill_cross_section.png

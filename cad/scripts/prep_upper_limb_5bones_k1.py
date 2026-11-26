@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Creality K1 Print Preparation, Optimal DFAM Orientation, Plate Packing,
 STL Round-Trip Validation & Build-Plate Overview Renderer (Blender 5.2)

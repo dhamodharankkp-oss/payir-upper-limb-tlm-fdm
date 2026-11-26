@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Configuration and Creality K1 Constraints for the 5 Individual Upper-Limb &
 Shoulder-Girdle Bones (scapula, clavicle, humerus, ulna, radius).

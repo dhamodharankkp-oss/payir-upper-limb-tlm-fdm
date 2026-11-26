@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 r"""
 Builds the Age 8-9 (240 mm humerus) wire-articulated classroom upper-limb kit
 for Creality K1 (0.4 mm, 220x220x250 mm bed):

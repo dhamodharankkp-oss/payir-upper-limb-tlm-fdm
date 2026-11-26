@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 r"""
 Reusable, product-agnostic STL Repair & Creality K1 Print-Prep CLI (Blender 5.2).
 

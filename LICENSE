@@ -1,0 +1,35 @@
+Dual-Licensing Notice
+=====================
+
+This repository uses a dual open-science license to separate software/parametric
+scripts from 3D hardware models, slicer profiles, datasets, and documentation.
+
+Authors:
+- Dr. Preethi L Xavier (Physician & Independent TLM Designer — Lead Author)
+- Dhamodaran KKP (ORCID: 0009-0002-1777-0573 — Ideapattrai - Makerspace, Aarvam Learning Lab)
+Program Context: Payir Health Initiatives (Payir Trust) Teaching-Learning Materials (TLM)
+
+-------------------------------------------------------------------------------
+1. Code & Parametric CAD Scripts -> MIT License (see LICENSE-CODE)
+-------------------------------------------------------------------------------
+Covered directories and file extensions:
+- analysis/*.py
+- cad/scripts/*.py          (parametric Blender 5.2 Python osteology & STL/3MF scripts)
+
+Note on parametric source vs. exported meshes:
+The parametric Blender Python scripts (*.py) that generate the geometry are
+licensed under the MIT License (LICENSE-CODE). The exported 3D mesh artifacts
+(*.stl, *.3mf) derived from them are licensed under CC-BY-4.0 (LICENSE-DATA).
+
+-------------------------------------------------------------------------------
+2. 3D Models, Profiles, Datasets & Manuscript -> CC-BY-4.0 (see LICENSE-DATA)
+-------------------------------------------------------------------------------
+Covered directories and file extensions:
+- cad/models/**/*.stl       (watertight binary STL bone parts & build plates)
+- cad/models/**/*.3mf       (OrcaSlicer 2.5.1 multi-plate project)
+- cad/profiles/*.json       (Creality K1 / OrcaSlicer process & machine presets)
+- data/**/*.csv, *.json, *.md
+- protocol/**/*.md
+- manuscript/**/*.md, *.png
+- docs/**/*.md
+- README.md, CITATION.cff, .zenodo.json

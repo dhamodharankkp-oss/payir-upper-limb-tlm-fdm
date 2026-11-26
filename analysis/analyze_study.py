@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Reproducible Analysis & Publication Figure Generator
 for the Payir Health Initiatives / Ideapattrai Pediatric Upper-Limb FDM Study.

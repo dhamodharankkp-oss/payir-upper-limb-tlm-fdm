@@ -63,3 +63,15 @@ python analysis/analyze_study.py
 ```
 
 *(Requires Python 3.10+ with `matplotlib` and `numpy`; Blender 5.2 is only required if regenerating STLs from `cad/scripts/`.)*
+
+---
+
+## License
+
+This project is dual-licensed (see root [LICENSE](LICENSE)):
+
+| Scope | Files & Extensions | License |
+| --- | --- | --- |
+| **Parametric CAD & Analysis Code** | `cad/scripts/*.py`, `analysis/*.py` | **MIT** ([LICENSE-CODE](LICENSE-CODE)) |
+| **3D Models, Slicer Profiles, Data & Docs** | `cad/models/**/*.stl`, `*.3mf`, `cad/profiles/*.json`, `data/**`, `protocol/**`, `manuscript/**`, `docs/**` | **CC-BY-4.0** ([LICENSE-DATA](LICENSE-DATA)) |
+

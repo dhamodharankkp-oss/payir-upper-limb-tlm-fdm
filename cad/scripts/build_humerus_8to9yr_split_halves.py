@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 r"""
 Exports the 240 mm Age 8-9 Humerus as two flat, zero-support, 45-deg K1-fitted halves
 with 3x Ø1.85 mm filament-peg alignment sockets:

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 True Osteological "Real-Bone" Edition Builder, Individual Exporter & K1 Prep (Blender 5.2).
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """
 Create custom K1 sparse-infill process profile, benchmark parts/clavicle.stl
 against default Creality K1 profiles at Z = 4.60 mm, slice all 17 STLs
