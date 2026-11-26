@@ -2,7 +2,7 @@
   "title": "Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology TLM Kit: Slicer Infill Ablation and Build-Orientation Validation",
   "description": "Abstract: Tactile, anatomically accurate osteology Teaching-Learning Materials (TLM) improve spatial understanding in community health training and school science classrooms, yet commercial pediatric bone models are rarely accessible in rural educational settings. We present an open-source, parametric Blender 5.2 CAD pipeline and Fused Deposition Modeling (FDM) fabrication protocol for a 5-bone human upper-limb osteology kit (Scapula, Clavicle, Humerus, Ulna, and Radius) scaled across adult (1:2, 1:1) and pediatric (5-year, 190 mm humerus; 8-9-year, 240 mm humerus) norms, incorporating modeled 2.4 mm wire-articulation tunnels for classroom assembly. Fabricating curved organic bones on high-speed desktop CoreXY printers (Creality K1, 0.4 mm nozzle) introduces two practical failure modes: (1) default slicer vertical-shell rules convert sloped bone interiors into dense internal solid infill, inflating material and print time, and (2) tilted single-piece builds (tilt40) suffer mid-print bed detachment due to minimal humeral-head contact (<4 mm2) and a tall lever arm (163.69 mm). Across 17 audited G-code jobs (poster, 1:2, and 1:1 scales), disabling ensure_vertical_shell_thickness and detect_narrow_internal_solid_infill constrained internal solid infill to 1.0%-3.8% (mean 2.31%) while maintaining 55.62% mean sparse infill without altering natural rounded geometry. Comparing three build orientations for the 240 mm Age 8-9 Humerus, zero-support split halves with 1.85 mm filament alignment pegs (split-pin) and Variable Layer Height eliminated bed-detachment failures observed in tilt40 and underside support scarring from flat tree supports. All CAD scripts, watertight STLs, .3mf plates, OrcaSlicer 2.5.1 presets, and G-code audit datasets are openly archived for community makerspaces and educators. Ideation & TLM pedagogical design by Dr. Preethi L Xavier (Physician & Independent TLM Designer); CAD & FDM fabrication by Dhamodaran KKP (Ideapattrai - Makerspace, Aarvam Learning Lab) for Payir Health Initiatives (Payir Trust) TLM.",
   "upload_type": "dataset",
-  "license": "cc-by-4.0",
+  "license": "cc-by-nc-4.0",
   "creators": [
     {
       "name": "Xavier, Preethi L",
@@ -26,7 +26,7 @@
     "Creality K1",
     "Payir Trust"
   ],
-  "notes": "Dual-licensed: code/scripts under MIT (LICENSE-CODE); STLs, 3MF, slicer profiles, datasets, and figures under CC-BY-4.0 (LICENSE-DATA).",
+  "notes": "Dual-licensed: code/scripts under MIT (LICENSE-CODE); STLs, 3MF, slicer profiles, datasets, and figures under CC-BY-NC-4.0 (LICENSE-DATA, non-commercial educational/TLM distribution).",
   "related_identifiers": [
     {
       "identifier": "https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm",

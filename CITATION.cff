@@ -16,7 +16,7 @@ version: "0.1.2"
 date-released: "2026-11-26"
 license:
   - "MIT"
-  - "CC-BY-4.0"
+  - "CC-BY-NC-4.0"
 keywords:
   - "3D printing"
   - "FDM"

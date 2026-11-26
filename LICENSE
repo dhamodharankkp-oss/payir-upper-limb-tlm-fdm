@@ -19,10 +19,11 @@ Covered directories and file extensions:
 Note on parametric source vs. exported meshes:
 The parametric Blender Python scripts (*.py) that generate the geometry are
 licensed under the MIT License (LICENSE-CODE). The exported 3D mesh artifacts
-(*.stl, *.3mf) derived from them are licensed under CC-BY-4.0 (LICENSE-DATA).
+(*.stl, *.3mf) derived from them are licensed under CC-BY-NC-4.0 (LICENSE-DATA)
+for open, non-commercial educational and TLM distribution.
 
 -------------------------------------------------------------------------------
-2. 3D Models, Profiles, Datasets & Manuscript -> CC-BY-4.0 (see LICENSE-DATA)
+2. 3D Models, Profiles, Datasets & Manuscript -> CC-BY-NC-4.0 (see LICENSE-DATA)
 -------------------------------------------------------------------------------
 Covered directories and file extensions:
 - cad/models/**/*.stl       (watertight binary STL bone parts & build plates)

@@ -2,7 +2,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1777--0573-A6CE39)](https://orcid.org/0009-0002-1777-0573)
 [![License: MIT (Code)](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
-[![License: CC BY 4.0 (Data/CAD)](https://img.shields.io/badge/Data%20%26%20CAD-CC--BY--4.0-lightgrey.svg)](LICENSE-DATA)
+[![License: CC BY-NC 4.0 (Data/CAD)](https://img.shields.io/badge/Data%20%26%20CAD-CC--BY--NC--4.0-lightgrey.svg)](LICENSE-DATA)
 
 **Authors**:
 - **Dr. Preethi L Xavier** ([LinkedIn](https://www.linkedin.com/in/preethi-l-xavier-48242b37b/)) — *Lead Author: TLM Ideation & Anatomical/Pedagogical Design* (Physician & Independent TLM Designer)
@@ -73,7 +73,7 @@ This project is dual-licensed (see root [LICENSE](LICENSE)):
 | Scope | Files & Extensions | License |
 | --- | --- | --- |
 | **Parametric CAD & Analysis Code** | `cad/scripts/*.py`, `analysis/*.py` | **MIT** ([LICENSE-CODE](LICENSE-CODE)) |
-| **3D Models, Slicer Profiles, Data & Docs** | `cad/models/**/*.stl`, `*.3mf`, `cad/profiles/*.json`, `data/**`, `protocol/**`, `manuscript/**`, `docs/**` | **CC-BY-4.0** ([LICENSE-DATA](LICENSE-DATA)) |
+| **3D Models, Slicer Profiles, Data & Docs** | `cad/models/**/*.stl`, `*.3mf`, `cad/profiles/*.json`, `data/**`, `protocol/**`, `manuscript/**`, `docs/**` | **CC-BY-NC-4.0** ([LICENSE-DATA](LICENSE-DATA)) |
 
 > **Educational Use Disclaimer**: All 3D anatomical models and TLM materials in this repository are provided for educational and Teaching-Learning Material (TLM) purposes only; they are not certified medical devices and are not intended for clinical diagnosis or surgical planning.
 
