@@ -75,3 +75,5 @@ This project is dual-licensed (see root [LICENSE](LICENSE)):
 | **Parametric CAD & Analysis Code** | `cad/scripts/*.py`, `analysis/*.py` | **MIT** ([LICENSE-CODE](LICENSE-CODE)) |
 | **3D Models, Slicer Profiles, Data & Docs** | `cad/models/**/*.stl`, `*.3mf`, `cad/profiles/*.json`, `data/**`, `protocol/**`, `manuscript/**`, `docs/**` | **CC-BY-4.0** ([LICENSE-DATA](LICENSE-DATA)) |
 
+> **Educational Use Disclaimer**: All 3D anatomical models and TLM materials in this repository are provided for educational and Teaching-Learning Material (TLM) purposes only; they are not certified medical devices and are not intended for clinical diagnosis or surgical planning.
+
