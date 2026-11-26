@@ -11,7 +11,8 @@ authors:
     orcid: "https://orcid.org/0009-0002-1777-0573"
     affiliation: "Ideapattrai - Makerspace, Aarvam Learning Lab (for Payir Health Initiatives / Payir Trust)"
 repository-code: "https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm"
-version: "0.1.0"
+abstract: "Open-source parametric Blender 5.2 CAD pipeline and FDM fabrication protocol for a 5-bone human upper-limb osteology Teaching-Learning Material (TLM) kit (Scapula, Clavicle, Humerus, Ulna, Radius) scaled for pediatric classrooms (5-year 190 mm and 8-9-year 240 mm humerus with 2.4 mm wire-articulation tunnels). Across 17 audited Creality K1 G-code jobs, disabling ensure_vertical_shell_thickness and detect_narrow_internal_solid_infill constrained internal solid infill to 1.0%-3.8% (mean 2.31%) with 55.62% mean sparse infill, while zero-support split-pin halves eliminated tilt40 bed-detachment failures."
+version: "0.1.1"
 date-released: "2026-11-25"
 license: "CC-BY-4.0"
 keywords:
