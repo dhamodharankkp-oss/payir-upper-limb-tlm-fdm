@@ -1,5 +1,6 @@
 # Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology TLM Kit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24552857.svg)](https://doi.org/10.5281/zenodo.24552857)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1777--0573-A6CE39)](https://orcid.org/0009-0002-1777-0573)
 [![License: MIT (Code)](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
 [![License: CC BY-NC 4.0 (Data/CAD)](https://img.shields.io/badge/Data%20%26%20CAD-CC--BY--NC--4.0-lightgrey.svg)](LICENSE-DATA)
@@ -76,4 +77,10 @@ This project is dual-licensed (see root [LICENSE](LICENSE)):
 | **3D Models, Slicer Profiles, Data & Docs** | `cad/models/**/*.stl`, `*.3mf`, `cad/profiles/*.json`, `data/**`, `protocol/**`, `manuscript/**`, `docs/**` | **CC-BY-NC-4.0** ([LICENSE-DATA](LICENSE-DATA)) |
 
 > **Educational Use Disclaimer**: All 3D anatomical models and TLM materials in this repository are provided for educational and Teaching-Learning Material (TLM) purposes only; they are not certified medical devices and are not intended for clinical diagnosis or surgical planning.
+
+---
+
+## How to Cite
+
+> Xavier, P. L., & KKP, D. (2026). *Low-Cost FDM Fabrication of an Age-Scaled Pediatric Upper-Limb Osteology TLM Kit: Slicer Infill Ablation and Build-Orientation Validation*. Zenodo. https://doi.org/10.5281/zenodo.24552857
 

@@ -95,6 +95,7 @@ The current `v0.1.0` release reports 17 deterministic G-code audits and initial 
 ## 6. Data & Code Availability
 All Blender scripts, OrcaSlicer `2.5.1` profiles, watertight STLs/3MF files, raw JSON/CSV datasets, and analysis scripts are openly available at:
 - **GitHub**: `https://github.com/dhamodharankkp-oss/payir-upper-limb-tlm-fdm`
+- **Zenodo Archive (DOI)**: `https://doi.org/10.5281/zenodo.24552857`
 - **Author ORCID**: `https://orcid.org/0009-0002-1777-0573`
 - **Licenses**: Code under MIT; CAD models, slicer profiles, and datasets under CC-BY-NC-4.0 (non-commercial educational/TLM distribution).
 
